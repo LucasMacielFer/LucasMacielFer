@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lucas! ✌️
-Um iniciante no incrível mundo da computação, interessado por Back End, Segurança da Informação e programação de microcontroladores!
+Um iniciante no incrível mundo da computação, interessado por programação de microcontroladores e computação científica!
 
 >🔰 Brasileiro
 
