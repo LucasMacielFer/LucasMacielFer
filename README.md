@@ -1,9 +1,8 @@
 ### Olá, eu sou o Lucas! ✌️
-Um iniciante no incrível mundo da computação, interessado por programação de microcontroladores e computação científica!
 
 >🔰 Brasileiro
 
->📅 18 Anos
+>📅 19 Anos
 
 > 💻 Acadêmico de Engenharia da Computação
 
@@ -11,10 +10,12 @@ Um iniciante no incrível mundo da computação, interessado por programação d
 
 
 
-**Idiomas:**
+**Languages:**
 > Português - Nativo
 
-> Inglês - Fluente
+> English - Fluente
+
+> Español - Básico
 
 **Learning**
 
