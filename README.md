@@ -4,7 +4,7 @@
 
 >📅 19 Anos
 
-> 💻 Acadêmico de Engenharia da Computação
+> 💻 Acadêmico de Engenharia de Computação
 
 > 🏫 Universidade Tecnológica Federal do Paraná
 
