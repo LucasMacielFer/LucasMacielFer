@@ -1,21 +1,22 @@
-### Olá, eu sou o Lucas! ✌️
+### Hello! I'm Lucas! ✌️
 
->🔰 Brasileiro
+> 🔰 Brazilian
+>
+> 📅 20 years old
+>
+> 💻 Computer engineering student
+>
+> 🏫🇧🇷 Universidade Tecnológica Federal do Paraná
+> 🏫🇵🇹 Instituto Politécnico de Leiria
 
->📅 19 Anos
-
-> 💻 Acadêmico de Engenharia de Computação
-
-> 🏫 Universidade Tecnológica Federal do Paraná
 
 
-
-**Languages:**
-> Português - Nativo
-
-> English - Fluente
-
-> Español - Básico
+**Languages spoken:**
+> Português - Native
+>
+> English - Fluent
+>
+> Español - Intermediate
 
 **Programming languages:**
 
@@ -27,5 +28,7 @@
 
 **Interests:**
 > Embedded Systems
+> 
 > Computer Networks
+> 
 > Systems integration
