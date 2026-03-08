@@ -17,7 +17,7 @@
 >
 > English - Fluent
 >
-> Español - Intermediate
+> Español - Basic
 
 **Programming languages:**
 
