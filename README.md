@@ -33,5 +33,3 @@
 > Embedded Systems
 > 
 > Extreme edge/Resource-constrained Computing
->
-> Edge AI/TinyML
